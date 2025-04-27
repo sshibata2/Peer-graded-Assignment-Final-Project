@@ -7,16 +7,12 @@ This project calculates simple interest based on three input values: principal, 
 It is implemented using a Bash shell script (`simple-interest.sh`).
 
 ## Usage
-
 ```bash
 bash ./simple-interest.sh <principal> <rate> <time>
-
 ```
-
 ## Example
 ```
 bash ./simple-interest.sh 1000 5 2
-
 ```
 ## Output
 ```
