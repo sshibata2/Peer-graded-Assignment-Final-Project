@@ -11,11 +11,15 @@ It is implemented using a Bash shell script (`simple-interest.sh`).
 ```bash
 bash ./simple-interest.sh <principal> <rate> <time>
 
-## Example
-bash ./simple-interest.sh 1000 5 2
+```
 
+## Example
+```bash ./simple-interest.sh 1000 5 2
+
+```
 ## Output
-Simple Interest: 100.0000000000
+```Simple Interest: 100.0000000000
+```
 
 
 
