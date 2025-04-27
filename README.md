@@ -10,3 +10,10 @@ It is implemented using a Bash shell script (`simple-interest.sh`).
 
 ```bash
 bash ./simple-interest.sh <principal> <rate> <time>
+
+## Sample
+```bash
+./simple-interest.sh 1000 5 2
+
+## Output
+Simple Interest: 100.0000000000
