@@ -14,7 +14,9 @@ bash ./simple-interest.sh <principal> <rate> <time>
 ## Example
 
 ```bash
-./simple-interest.sh 1000 5 2
+bash ./simple-interest.sh 1000 5 2
+
 
 ## Output
 Simple Interest: 100.0000000000
+
